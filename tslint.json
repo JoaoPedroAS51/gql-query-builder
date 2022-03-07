@@ -6,5 +6,8 @@
     "array-type": false,
     "object-literal-sort-keys": false,
     "prettier": true
+  },
+  "linterOptions": {
+    "exclude": ["build"]
   }
 }
